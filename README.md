@@ -25,3 +25,19 @@ If you wish to read the Vulgate in one year, here you have a serving suggestion.
 
 
 Every feedback, idea or correction will be welcome!
+
+
+## Web interface / EPUB generation
+
+Launching `vulgate.com` will launch a browser pointing to http://localhost:8080, serving a web version of the Vulgate,
+automatically generated from [vulgate_with_accents.txt](./vulgate_with_accents.txt).
+
+It will provide a link to get the Vulgate as an epub file, suitable for e-readers.
+
+If one wants to change code, install [MoonScript](moonscript.org), and after editing [.init.moon](./.init.moon),
+run following commands:
+
+```sh
+moonc .init.moon
+./zip vulgata.com init.lua
+```
