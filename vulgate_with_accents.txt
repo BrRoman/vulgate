@@ -6392,7 +6392,7 @@ Jos	21	13	Dedit ergo fíliis Aaron sacerdótis Hebron confúgii civitátem, ac s
 Jos	21	14	et Iether, et Esthemo,
 Jos	21	15	et Holon, et Dabir,
 Jos	21	16	et Ain, et Ieta, et Béthsames, cum suburbánis suis: civitátes novem de tríbubus, ut dictum est, duábus.
-Jos	21	17	De tribu autem filiórum Béniamin, Gábaon, et Gabæ,
+Jos	21	17	De tribu autem filiórum Béniamin, Gábaon, et Gábaë,
 Jos	21	18	et Anathoth, et Almon, cum suburbánis suis: civitátes quátuor.
 Jos	21	19	Omnes simul civitátes filiórum Aaron sacerdótis, trédecim, cum suburbánis suis.
 Jos	21	20	Réliquis vero per famílias filiórum Caath Levítici géneris hæc est data posséssio.
